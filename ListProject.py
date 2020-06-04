@@ -42,6 +42,6 @@ while True:
 
 
     #call add_to_list with new_item as argument  
-    add_to_list(add_to_list)
+    add_to_list(new_item)
 
 show_list()
